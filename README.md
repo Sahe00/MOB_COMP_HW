@@ -13,7 +13,7 @@ Description: The application was developed entirely in Android Studio using Kotl
 * Profile Screen. Allows you to see your set name, and profile picture. The profile picture will be remembered.
 
 
-Note the files were dumped to Git as zips due to desired return format-
+Note the files were dumped to Git as zips due to desired return format.
 
 Credits:
 Santeri Heikkinen
