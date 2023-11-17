@@ -6,7 +6,7 @@ Description: The application was developed entirely in Android Studio using Kotl
 * Main screen where all of the notifications are listed in, each stored in seperate categories which the user can set themselves. 
   * Category header bar that can be horizontally scrolled.
   * Profile button to enter profile screen.
-  * Logout button to rerturn to the login screen.
+  * Logout button to return to the login screen.
 * Notification creation screen. Each notification can be given a name, preset category, timer and a location. Additionally, the notifications can afterward be edited or deleted entirely.
   * Notification names can either be set by traditionally typing or by using the "voice-to-text" -feature.
   * Location -feature utilizes Google Maps API. Each notification can be tied to a user specified location which have a certain geofenced radius. Once the user enters the geofenced radius the corresponding notification will be set off.
