@@ -1,7 +1,8 @@
 # MOB_COMP_HW
 Repository for the "Mobile Computing 521046A 2022–2023" -course in which the homework and programming exercises will be stored at.
 
-Description: The application was developed entirely in Android Studio using Kotlin -language. It is a rudimentary notification application, which has the following features included:
+**Description:**
+The application was developed entirely in Android Studio using Kotlin -language utilizing Jetpack Compose. It is a rudimentary notification application, which has the following features included:
 * Login screen, with a stored  username/password.
 * Main screen where all of the notifications are listed in, each stored in seperate categories which the user can set themselves. 
   * Category header bar that can be horizontally scrolled.
